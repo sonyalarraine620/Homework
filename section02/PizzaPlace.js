@@ -15,4 +15,3 @@ if (numOfToppings < 10) {
 for (let i = 2; i <= 10 ; i+=2) {
   console.log(`At ${pizzaPlace} We have ${i} toppings. `)
 };
-
