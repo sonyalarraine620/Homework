@@ -1,0 +1,20 @@
+hat do I want the functionality of each page to be?
+Home page: Provides an overview of selection of different plannings tools. Users select which tool they 
+need to structure their day. 
+Calender Page: a Calender that displays users events Users can add edit or delete items, as well as 
+switch between monthly or yearly calendar.
+Daily Planner: Daily planner includes date display to allow users to easily keep track of schedule. 
+Users should be able to view notes & to do lists and mark lists as complete.
+To Do list page:
+The page should provide an area for users to view and manage their to-do list for the day. This should 
+include the ability to add, edit, or delete items, as well as mark them as complete.
+What is the purpose of my application?
+The purpose of my application is to provide the tools necessary for mothers to structure and organize 
+their days
+What Business problem am I going to be solving?
+Helping mothers achieve a better work-life balance, reduce stress, and increase overall well being.
+Fonts
+Open sans
+Navigation
+ tab bar at the bottom allows users to quickly switch between different sections of application, such as 
+the calendar, to-do list, and daily planner.
