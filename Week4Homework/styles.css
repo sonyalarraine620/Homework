@@ -15,6 +15,7 @@ h1 {
 #myHeader {
   text-align: center;
   padding: 20px;
+  background-color: rgb(206, 178, 17);
 }
 
 
@@ -29,9 +30,15 @@ h1 {
   border: 5px;
   padding: 5px;
   border-radius: 8px;
-  
+
 }
 
 #myFooter > p {
+  border-style: double;
 font-weight: 900;
+background-color: #610345;
+}
+
+.unorderedList{
+  font-size: large;
 }
