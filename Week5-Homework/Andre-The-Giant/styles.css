@@ -1,0 +1,56 @@
+html {
+    background-color: antiquewhite;
+  }
+  
+  body {
+    text-align: center;
+    font-size: 18px;
+  
+  }
+  
+  h1 {
+    font-size: 50px;
+  }
+  
+  img {
+    height: 100%;
+  }
+  
+  div {
+    border: 2px solid burlywood;
+    margin: 10px;
+  }
+  
+  
+  #bio {
+    float: right;
+  }
+  #bio > li {
+    padding: 2px;
+  }
+  
+  #pro {
+    width: auto;
+  }
+
+  #top {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+    flex-wrap: wrap;
+  }
+  
+
+  @media (max-width: 375px) {
+    #top {
+      display: flex;
+      flex-direction: column;
+    }
+
+  }
+
+  html {
+    display: flex;
+    align-self: center;
+  }
