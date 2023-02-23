@@ -1,8 +1,8 @@
 import html from "html-literal";
 import * as views from "./views";
 
-export default () => html`
-${views["Daily"]()}, ${views["Home"]()}, ${views["Calendar"]()}, ${views["Todo"()]},
+export default (state) => html`
+${views[state.view](state)}
 `;
 
 //this needs work/ clarification

@@ -2,6 +2,6 @@ import html from "html-literal";
 
 export default () =>html`
 <footer>
-    <p>Here is my footer!</p>
+    <h4>Here is my footer!</h4>
 </footer>
 `
